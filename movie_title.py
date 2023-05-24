@@ -1,6 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/python
+#regular expression
 import re
 
+#prompting the user to enter the movie title and year of release
 title = input("Enter a movie title: ")
 year = input("Enter the year of release: ")
 
